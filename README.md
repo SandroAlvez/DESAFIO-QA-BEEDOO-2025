@@ -1,6 +1,6 @@
 # Desafio QA Beedo
 
-A proposta do desafio é analisar um módulo de cursos do website da Beedoo, criar user stories e casos de teste, fazendo a documentação de todo o processo e dos bugs encontrados.
+A proposta do desafio é analisar um módulo de cursos do website da Beedoo e, a partir dele, criar user stories e casos de teste, fazendo a documentação de todo o processo e dos bugs encontrados.
 
 ## Metodologia
 
@@ -24,6 +24,7 @@ A análise do website e execução dos casos de teste foram feitas nas seguintes
 
 * Google Chrome Versão 140.0.7339.128 (Versão oficial) 64 bits
     Análise e execução dos casos de teste.
+    DevTools para visualização de logs e validação de dimensão de dispositivos móveis (utilizado dimensões padrão Iphone 12).
 
 * Visual Studio Code 1.105.1 x64
     Escrita do markdown e utilização do terminal.
@@ -126,4 +127,4 @@ Como usuário,
 Quero excluir um curso através de um botão,
 Para eliminar os cursos que não quero utilizar
 
-AC23 - Ao clicar no botão excluir curso, a mensagem "Curso excluído com sucesso!" deve aparecer e o curso deve desaparecer da lista
+AC23 - Ao clicar no botão excluir curso, a mensagem "Curso excluído com sucesso!" deve aparecer e o curso deve desaparecer da lista.
