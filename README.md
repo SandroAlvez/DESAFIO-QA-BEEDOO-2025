@@ -37,7 +37,7 @@ A análise do website e execução dos casos de teste foram feitas nas seguintes
 
 As user stories (US) a seguir seguem o padrão "Como **usuário**, quero **ação**, para **objetivo**", utilizado em metodologias ágeis, e foram estabelecidos alguns critérios de aceite (AC), que são características obrigatórias no desenvolvimento das user stories. 
 
-Essa parte da documentação foi elaborada a partir da análise do website como um gerenciador de cursos e como ele deve atender ao público-alvo do ponto de vista do usuário.
+Essa parte da documentação foi elaborada a partir da análise do website como um gerenciador de cursos e como ele deve atender ao público-alvo do ponto de vista do usuário (a motivação da escolha de cada user story está melhor descrita no item Objetivo de cada US).
 
 ### US01 - Exibir página com lista de cursos
 
@@ -48,6 +48,8 @@ Para visualizar uma lista de todos cursos cadastrados no sistema
 AC01 - A página deve exibir o título "Lista de cursos".
 AC02 - Uma lista de todos os cursos deve ser exibida contendo os campos:
 AC03 - O Menu deve exibir os seguites links alinhados à direita: "LISTAR CURSOS", "CADASTRAR CURSO".
+
+Para criar essa user story e critérios de aceite 
 
 ### US02 - Exibir página de cadastro de cursos
 
@@ -128,3 +130,16 @@ Quero excluir um curso através de um botão,
 Para eliminar os cursos que não quero utilizar
 
 AC23 - Ao clicar no botão excluir curso, a mensagem "Curso excluído com sucesso!" deve aparecer e o curso deve desaparecer da lista.
+
+
+## Cenários e casos de teste
+
+Partindo do princípio que os cenários de teste são uma versão mais abrangente do teste de uma feature e os casos de teste são mais específicos, foram desenvolvidos cenários de teste em menor quantidade enunciar o teste de funcionalidades e casos de teste em maior quantidade que abordassem diferentes perspectivas e inputs dos cenários de teste.
+
+Link do Google Sheets com os cenários e casos de teste (dividídos em 2 abas): https://docs.google.com/spreadsheets/d/1bcPuv4CcUD6sIy8JmHYRllqPat2WtI3YBphi74TMS2g/edit?usp=drive_link
+
+## Bug report
+
+Para reportar os bugs encontrados, utilizei uma planilha separada que contém as informações mais importantes de um bug report e linkei cada bug à evidências de casos de teste ou testes exploratórios (printscreens) e logs achados no DevTools. Com foco em um report o mais reproduzível possível e com clareza quanto ao erro.
+
+Link da planilha de bugs: https://docs.google.com/spreadsheets/d/1jwQ_oUpTBlAVaUyA4ev8VVYEbWjaXrOoglmJUPcd16I/edit?usp=drive_link
