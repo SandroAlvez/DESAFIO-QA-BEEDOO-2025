@@ -37,7 +37,7 @@ A análise do website e execução dos casos de teste foram feitas nas seguintes
 
 As user stories (US) a seguir seguem o padrão "Como **usuário**, quero **ação**, para **objetivo**", utilizado em metodologias ágeis, e foram estabelecidos alguns critérios de aceite (AC), que são características obrigatórias no desenvolvimento das user stories. 
 
-Essa parte da documentação foi elaborada a partir da análise do website como um gerenciador de cursos e como ele deve atender ao público-alvo do ponto de vista do usuário (a motivação da escolha de cada user story está melhor descrita no item Objetivo de cada US).
+Essa parte da documentação foi elaborada a partir da análise do website como um gerenciador de cursos e como ele deve atender ao público-alvo do ponto de vista do usuário.
 
 ### US01 - Exibir página com lista de cursos
 
